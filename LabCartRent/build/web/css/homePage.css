@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 7, 2021, 7:30:26 PM
+    Author     : USER
+*/
+a.page-link {
+    margin-left: 41em;
+}
+li.page-item {
+    margin-right: 1%;
+}
+select {
+    /* margin-right: 10%; */
+    font-size: 23px;
+    /* margin-left: 5px; */
+    /* padding-left: 16px; */
+}
+form.d-flex {
+    font-size: 24px;
+    /* margin-right: 3px; */
+}
+.carousel-inner {
+    margin-top: 39px;
+    height: 33rem;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+a.btn.btn-danger.checkout {
+    margin-left: 45%;
+}
+form.checkout {
+    margin-left: 35%;
+}
+.col-auto.test {
+    margin-left: 3em;
+}
+button.btn.btn-primary.checkout {
+    /* padding: 1%; */
+    margin-left: 14%;
+    margin-top: 3%;
+    padding-right: 1%;
+}
+input#birthday {
+    font-size: 23px;
+}
